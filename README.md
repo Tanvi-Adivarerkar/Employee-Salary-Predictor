@@ -44,8 +44,8 @@ A Machine Learning project that predicts employee salaries based on different fa
 * Integration with HR management systems
 
 ## Output Screenshot
+<img width="1102" height="623" alt="Screenshot 2026-06-07 124129" src="https://github.com/user-attachments/assets/3cf7ce25-eb43-4cca-99f2-4fbcb77d9bdc" />
 
-(Add project screenshots here)
 
 ## Author
 
